@@ -321,7 +321,7 @@ def main():
             help="Switch to Flash-Lite if you hit free-tier rate limits.",
         )
         max_claims = st.slider(
-            "Max claims to check", min_value=3, max_value=25, value=MAX_CLAIMS_DEFAULT,
+            "Max claims to check", min_value=3, max_value=15, value=MAX_CLAIMS_DEFAULT,
             help="Caps API usage — each claim costs 1 search call + 1 Gemini call.",
         )
         st.divider()
