@@ -5,7 +5,7 @@ every checkable factual claim, verifies each one against live web evidence,
 and flags what's false or outdated — stating the current correct figure
 where one exists, not just a red flag.
 
-**Live app:** _add your Streamlit Cloud URL here once deployed_
+**Live app:** https://zns7duy98bbzmwznshrs5s.streamlit.app/
 
 ## What it does
 
